@@ -1,0 +1,23 @@
+[14-Aug-2015 14:23:38 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/libraries/Core.php on line 1282
+[14-Aug-2015 14:23:38 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/libraries/Core.php on line 1282
+[14-Aug-2015 14:23:39 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/libraries/Core.php on line 1282
+[14-Aug-2015 14:23:40 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/libraries/Core.php on line 1282
+[17-Aug-2015 11:28:06 Etc/GMT] PHP Fatal error:  Cannot redeclare Links::index() in /home/showvaul/public_html/jobscale.net/halogy/modules/links/controllers/links.php on line 125
+[17-Aug-2015 11:28:35 Etc/GMT] PHP Fatal error:  Cannot redeclare Links::index() in /home/showvaul/public_html/jobscale.net/halogy/modules/links/controllers/links.php on line 125
+[17-Aug-2015 11:28:36 Etc/GMT] PHP Fatal error:  Cannot redeclare Links::index() in /home/showvaul/public_html/jobscale.net/halogy/modules/links/controllers/links.php on line 125
+[19-Aug-2015 06:31:31 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 06:31:35 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 06:32:03 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 06:32:06 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 06:34:06 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 06:34:48 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:18 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:18 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:29 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:30 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:32 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:33 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:48 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:49 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:50 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
+[19-Aug-2015 12:47:54 Etc/GMT] PHP Fatal error:  Call to a member function get_group_permissions() on a non-object in /home/showvaul/public_html/jobscale.net/halogy/modules/images/controllers/admin.php on line 41
